@@ -1,0 +1,21 @@
+body {
+  background: navy;
+  margin: 0;
+  padding: 5%;
+  max-width: 100%;
+  text-align: center;
+}
+
+#canvas {
+  background: #FFF;
+  border-radius: 8px;
+  margin-top: 3%;
+}
+
+h1 {
+  color: #FFF;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+  font-size: 2.5rem;
+  letter-spacing: 0.1rem;
+  margin-top: -3%;
+}
